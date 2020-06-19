@@ -19,6 +19,8 @@
         "drupal/core-composer-scaffold": "^8.8.1",
         "drupal/core-recommended": "^8.8",
         "drupal/ctools": "^3.4",
+        "drupal/pathauto": "^1.8",
+        "drupal/token": "^1.7",
         "drush-ops/behat-drush-endpoint": "^9.3",
         "drush/drush": "~8.3",
         "pantheon-systems/drupal-integrations": "^8",
